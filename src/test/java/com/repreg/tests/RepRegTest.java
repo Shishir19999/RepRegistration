@@ -597,6 +597,7 @@ public class RepRegTest {
 				.perform();
 		Thread.sleep(1500);
 
+		
 		//
 		//// populate the password field
 		// WebElement passWord =
